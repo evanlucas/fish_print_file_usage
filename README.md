@@ -1,5 +1,7 @@
 # fish_print_file_usage
 
+[![Build Status](https://travis-ci.com/evanlucas/fish_print_file_usage.svg?branch=master)](https://travis-ci.com/evanlucas/fish_print_file_usage)
+
 > A hacky way to add usage to a fish function
 
 ## Install
